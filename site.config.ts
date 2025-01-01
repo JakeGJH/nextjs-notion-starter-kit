@@ -61,13 +61,29 @@ export default siteConfig({
   //     title: 'Contact',
   //     pageId: '16ca37a8a24281768d96c07cd3fc93d0'
   //   }
-  {
-  //     title: 'PROFESSIONAL EXPERIENCE',
+  //   {
+  //     title: 'Professional Experience',
   //     pageId: '16ea37a8a2428099a620e01706d988f3'
   //   },
   //   {
-  //     title: 'PUBLICATION',
+  //     title: 'Publication',
   //     pageId: '16ea37a8a24280fd8597e23f4c201de6'
+  //   }
+    //   {
+  //     title: 'Conference',
+  //     pageId: '16ea37a8a24280058deac2dd0fc807e5'
+  //   },
+  //   {
+  //     title: 'Awards',
+  //     pageId: '16ea37a8a24280ba95cad5d90d180e21'
+  //   }
+   //   {
+  //     title: 'Extracurricular Activities',
+  //     pageId: '16ea37a8a24280d0af28fbac5695b86c'
+  //   },
+  //   {
+  //     title: 'Volunteer/Community Services',
+  //     pageId: '16ea37a8a24280fa8099c077ccc298e2'
   //   }
   // ]
 })
